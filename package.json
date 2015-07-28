@@ -1,0 +1,45 @@
+{
+  "name": "react-native-html-text",
+  "version": "0.0.2",
+  "tags": [
+		"react",
+		"native",
+		"html",
+		"text"
+	],
+  "description": "React-native tool that translates html into <Text>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dprior/react-native-html-text.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "html",
+    "text"
+  ],
+  "author": {
+		"name": "David Prior",
+		"email": "davidprior1004@gmail.com"
+	},
+  "contributors": [
+		{
+			"name": "Jesse Wise",
+			"email": "jwise7@gmail.com"
+		}
+	],
+  "licenses": [
+		{
+			"type": "MIT",
+			"url": "http://www.opensource.org/licenses/MIT"
+		}
+	],
+  "bugs": {
+    "url": "https://github.com/turingou/react-native-html/issues"
+  },
+  "dependencies": {
+    "react-native": "^0.3.1",
+    "cleanse-html": "*"
+  }
+}
