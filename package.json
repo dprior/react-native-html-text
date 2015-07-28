@@ -1,6 +1,6 @@
 {
   "name": "react-native-html-text",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "tags": [
 		"react",
 		"native",
@@ -39,7 +39,7 @@
     "url": "https://github.com/turingou/react-native-html/issues"
   },
   "dependencies": {
-    "react-native": "^0.3.1",
+    "react-native": "^0.6.0",
     "cleanse-html": "*"
   }
 }
